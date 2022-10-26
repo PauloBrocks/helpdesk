@@ -10,7 +10,7 @@ export function Header() {
     <Container>
       <Greeting>
         <Title>HelpDesk</Title>
-        <SubTitle>Conte conosco, estamos aqui para ajudar.</SubTitle>
+        <SubTitle>Conte conosco, estamos aqui para ajudar. Chama nós!</SubTitle>
       </Greeting>
 
       <LogoutButton onPress={handleSignOut} />

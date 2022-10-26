@@ -23,7 +23,7 @@ export function SignInForm() {
 
   return (
     <Form>
-      <Title>Entrar</Title>
+      <Title>Entrar aqui</Title>
       <Input placeholder="E-mail" onChangeText={setEmail} />
       <Input placeholder="Senha" secureTextEntry onChangeText={setPassword} />
       <Button title="Entrar" onPress={handleSignIn} isLoading={isLoading} />

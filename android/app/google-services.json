@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27091983071",
+    "project_id": "aulahelpdesk",
+    "storage_bucket": "aulahelpdesk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27091983071:android:92499e48a14d8f55dfe76a",
+        "android_client_info": {
+          "package_name": "com.helpdesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27091983071-8fahs1eosqa85apb15qbqrnd4jp8r2rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Bs4QLDaLQOJ3Bk4Gs7x0i0rrgM1ZDw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27091983071-8fahs1eosqa85apb15qbqrnd4jp8r2rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

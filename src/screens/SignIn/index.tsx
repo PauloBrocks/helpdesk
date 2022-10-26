@@ -14,7 +14,7 @@ export function SignIn() {
       <KeyboardAvoidingView behavior={Platform.OS === 'ios' ? 'padding' : undefined}>
         <Content>
           <Lottie source={signInAnimation} />
-          <SubTitle>Conte conosco, estamos aqui para ajudar.</SubTitle>
+          <SubTitle>Conte conosco, estamos aqui para ajudar. Entre aê!</SubTitle>
           <SignInForm />
         </Content>
       </KeyboardAvoidingView>
